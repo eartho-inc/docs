@@ -33,26 +33,25 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Eartho Website",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://eartho.io"
     },
     {
-      "name": "Community",
+      "name": "Eartho Creators",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://creators.eartho.io"
     },
     {
-      "name": "Blog",
+      "name": "Eartho Members",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://one.eartho.io"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
         "quickstart",
         "development"
       ]
